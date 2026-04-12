@@ -87,10 +87,10 @@ const aakash = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aakash-rajbhar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-rajbhar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=aakash-rajbhar&theme=tokyonight&hide_border=true" />
