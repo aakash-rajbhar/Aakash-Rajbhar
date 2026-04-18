@@ -77,7 +77,7 @@ const aakash = {
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,prisma,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,aws,prisma,figma&theme=dark" />
   &nbsp;<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-00C6FF?style=for-the-badge&logoColor=white" />
 </p>
