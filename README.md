@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <a href="https://aakashrajbhar.netlify.app">
+  <a href="https://aakashrajbhar.vercel.app">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0072ff?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/aakash-rajbhar">
