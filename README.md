@@ -43,46 +43,63 @@ const aakash = {
 ```
 
 ---
-
 ## 🛠 Tech Stack
 
-**Languages**
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
 </p>
 
-**Web**
+</td>
+    <td width="50%" valign="top">
 
+**Web**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs&theme=dark" />
 </p>
 
-**Database**
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
+**Database**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
 </p>
 
-**Tools**
+</td>
+    <td width="50%" valign="top">
 
+**Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,prisma,figma&theme=dark" />
   &nbsp;<img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-00C6FF?style=for-the-badge&logoColor=white" />
 </p>
 
-**Others**
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
 
+**Others**
 <p>
   <img src="https://skillicons.dev/icons?i=redux,express&theme=dark" />
   &nbsp;<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logoColor=white&color=0072ff" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-   <img src="https://img.shields.io/badge/Agile-0072ff?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-0072ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Vitals-FF6C37?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </p>
 
+</td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
@@ -92,13 +109,11 @@ const aakash = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-rajbhar&layout=compact&theme=tokyonight&hide_border=true" />
 </p> -->
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=aakash-rajbhar&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=aakash-rajbhar&theme=tokyonight&hide_border=true&height=195" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aakash-rajbhar&theme=tokyo-night&hide_border=true&area=true&height=475" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aakash-rajbhar&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
